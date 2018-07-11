@@ -1,0 +1,120 @@
+ {
+    "prizeDesc": "每人100次$utf8$一等奖华为p10",
+    "lottery": [{
+      "name": "华为P10",
+      "note": "华为 P10 Plus 全网通 4G 手机 双卡双待-6G+128G-玫瑰金",
+      "count": 8,
+      "pic":"gift1.png"
+    }, {
+      "name": "笔记本",
+      "note": "纪念品",
+      "count": 8,
+      "pic":"gift1.png"
+    }, {
+      "name": "笔记本",
+      "note": "纪念品",
+      "count": 8,
+      "pic":"gift1.png"
+    }, {
+      "name": "笔记本",
+      "note": "纪念品",
+      "count": 8,
+      "pic":"gift1.png"
+    }, {
+      "name": "笔记本",
+      "note": "纪念品",
+      "count": 8,
+      "pic":"gift1.png"
+    }, {
+      "name": "笔记本",
+      "note": "纪念品",
+      "count": 8,
+      "pic":"gift1.png"
+    }, {
+      "name": "笔记本",
+      "note": "纪念品",
+      "count": 8,
+      "pic":"gift1.png"
+    }, {
+      "name": "笔记本",
+      "note": "纪念品",
+      "count": 8,
+      "pic":"gift1.png"
+    }, {
+      "name": "笔记本",
+      "note": "纪念品",
+      "count": 8,
+      "pic":"gift1.png"
+    }, {
+      "name": "笔记本",
+      "note": "纪念品",
+      "count": 8,
+      "pic":"gift1.png"
+    }
+    , {
+        "name": "笔记本",
+        "note": "纪念品",
+        "count": 8,
+        "pic":"gift1.png"
+      }
+    , {
+        "name": "笔记本",
+        "note": "纪念品",
+        "count": 8,
+        "pic":"gift1.png"
+      }
+    , {
+        "name": "笔记本",
+        "note": "纪念品",
+        "count": 8,
+        "pic":"gift1.png"
+      }
+    , {
+        "name": "笔记本",
+        "note": "纪念品",
+        "count": 8,
+        "pic":"gift1.png"
+      }
+    , {
+        "name": "笔记本",
+        "note": "纪念品",
+        "count": 8,
+        "pic":"gift1.png"
+      }
+    , {
+        "name": "笔记本",
+        "note": "纪念品",
+        "count": 8,
+        "pic":"gift1.png"
+      }
+    , {
+        "name": "笔记本",
+        "note": "纪念品",
+        "count": 8,
+        "pic":"gift1.png"
+      }
+    , {
+        "name": "笔记本",
+        "note": "纪念品",
+        "count": 8,
+        "pic":"gift1.png"
+      }
+    , {
+        "name": "笔记本",
+        "note": "纪念品",
+        "count": 8,
+        "pic":"gift1.png"
+      }
+    , {
+        "name": "笔记本",
+        "note": "纪念品",
+        "count": 8,
+        "pic":"gift1.png"
+      }
+    ],
+    "beginTime": 1506519900000,
+    "endTime": 1601446191000,
+    "currTime": 1506751791732,
+    "title": "奖品丰厚",
+    "lotteryDesc": "100中奖$utf8$抓紧机会"
+  }

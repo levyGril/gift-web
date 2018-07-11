@@ -1,0 +1,194 @@
+{
+  "bizCode": "000000",
+  "bizMessage": "",
+  "data": {
+    "prizeDesc": "每人100次$utf8$一等奖华为p10",
+    "winners": [{
+      "randomId": "11120fba76224eda8f819f0d0058606a",
+      "level": 1,
+      "name": "张三",
+      "mobile": "153****91106",
+      "commodityName": "华为 P10 Plus 全网通 4G 手机 双卡双待-6G+128G-玫瑰金"
+    }, {
+      "randomId": "fd47133f9bb4453a86a659f81640d1ef",
+      "level": 4,
+      "name": "张四",
+      "mobile": "189****01366",
+      "commodityName": "15福币"
+    }, {
+      "randomId": "e9ba39c8773b4edebf45e1e3c35f3fc1",
+      "level": 2,
+      "name": "张五",
+      "mobile": "189****01366",
+      "commodityName": "200优惠券"
+    }, {
+      "randomId": "88e3ecdabc354d7a8c0b56a822a6f5a5",
+      "level": 3,
+      "name": "张六",
+      "mobile": "150****00451",
+      "commodityName": "100优惠券"
+    }, {
+      "randomId": "784227fd523841afac3dee0e6a377113",
+      "level": 8,
+      "name": "李四",
+      "mobile": "189****01366",
+      "commodityName": "3福币"
+    }, {
+      "randomId": "7a95ad0b9522442a8ca12859e41f1fb9",
+      "level": 8,
+      "name": "李五",
+      "mobile": "151****73957",
+      "commodityName": "3福币"
+    }, {
+      "randomId": "0b92100d0a354ad3be334edf826c61e5",
+      "level": 8,
+      "name": "李六",
+      "mobile": "151****73957",
+      "commodityName": "3福币"
+    }, {
+      "randomId": "4b0a012886cd473d962f5ad9b60ba7e6",
+      "level": 8,
+      "name": "李七",
+      "mobile": "151****73957",
+      "commodityName": "3福币"
+    }, {
+      "randomId": "46e31a4dfd0d4cf889f1c0b8f9f04075",
+      "level": 7,
+      "name": "李八",
+      "mobile": "136****49120",
+      "commodityName": "5福币"
+    }],
+    "defineId": "b1dffba5c02f4fe19f3ac766f3432018",
+    "remainingTimes": 45,
+    "hasDrawed": true,
+    "prizeInfo": [{
+      "level": 1,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/1-2.png",
+      "prizeId": "436066c40529401287658bfd67c1d346",
+      "commodityName": "5D迪特拉姆斯音响-胡桃木色A/B",
+      "count":2
+    }, {
+      "level": 2,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/2-2.png",
+      "prizeId": "acdcb838bda74ec8b1fd202234f852ec",
+      "commodityName": "Appelles 阿佩丽丝经典系列护法护肤四件套",
+      "count":1
+    }, {
+      "level": 3,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/3-2.png",
+      "prizeId": "484bf4c856b94265960b3e182e9f597f",
+      "commodityName": "Cosmic Speculation Space Stone",
+      "count":2
+    }, {
+      "level": 4,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/4-2.png",
+      "prizeId": "d5c7784c4c4d4a33b141fc1be3b11a71",
+      "commodityName": "Cosmic Speculation Time Stone",
+      "count":2
+    }, {
+      "level": 5,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/5-2.png",
+      "prizeId": "7221846d585a4bed80bf486f94fcabae",
+      "commodityName": "Cosmic Speculation Mind Stone",
+      "count":2
+    }, {
+      "level": 6,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/6-1.png",
+      "prizeId": "33c6413801fd44c594cbf6642840a614",
+      "commodityName": "Cosmic Speculation车载香氛",
+      "count":2
+    }, {
+      "level": 7,
+      "picUrlDesc": "http://qdtalk.com/wp-content/uploads/2017/09/7-1.png",
+      "prizeId": "e453f94905334ea083fca649e87b3308",
+      "commodityName": "Cosmic Speculation Mars",
+      "count":2
+    }, {
+      "level": 8,
+      "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+      "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+      "commodityName": "Cosmic Speculation Georgius",
+      "count":2
+      }, {
+      "level": 9,
+      "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+      "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+      "commodityName": "Cosmic Speculation Alexander",
+      "count":2
+      }, {
+      "level": 10,
+      "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+      "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+      "commodityName": "Masion Saint Martins克勒肯维尔创意园",
+      "count":2
+      }, {
+      "level": 11,
+      "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+      "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+      "commodityName": "Masion Saint Martins千禧穹顶",
+      "count":2
+      }, {
+      "level": 12,
+      "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+      "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+      "commodityName": "Masion Saint Martins 皇家歌剧院",
+      "count":2
+      }, {
+      "level": 13,
+      "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+      "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+      "commodityName": "Masion Saint Martins 日夜手霜",
+      "count":2
+      }, {
+        "level": 14,
+        "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+        "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+        "commodityName": "玛瑙杯垫100mm-120mm",
+        "count":2
+      }, {
+        "level": 15,
+        "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+        "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+        "commodityName": "Jabra HaloStep",
+        "count":2
+      }, {
+        "level": 16,
+        "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+        "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+        "commodityName": "Jabra HaloFree",
+        "count":2
+      }, {
+        "level": 17,
+        "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+        "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+        "commodityName": "Beast香氛香片",
+        "count":2
+      }, {
+        "level": 18,
+        "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+        "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+        "commodityName": "悠庭按摩礼券",
+        "count":2
+      }, {
+        "level": 19,
+        "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+        "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+        "commodityName": "星巴克礼券",
+        "count":2
+      }, {
+        "level": 20,
+        "picUrlDesc":"http://qdtalk.com/wp-content/uploads/2017/09/8-1.png",
+        "prizeId": "e8df88de1878428bb58d0cc9152d8849",
+        "commodityName": "Flower+月卡",
+        "count":2
+      }
+
+    ],
+    "beginTime": 1506519900000,
+    "endTime": 1601446191000,
+    "currTime": 1506751791732,
+    "title": "奖品丰厚",
+    "lotteryDesc": "100中奖$utf8$抓紧机会"
+  },
+  "success": true
+}
